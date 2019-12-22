@@ -70,7 +70,6 @@ public class main {
         return primarray;
     }
 
-
     private static int[] deleteMultiple(int[] a, int prim) {            //löscht Vielfache von gefundenen Primzahlen
 
         for (int i = 1; i < a.length; i++) {
